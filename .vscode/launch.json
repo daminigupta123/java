@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "sumress",
       "request": "launch",
       "mainClass": "sumress",
