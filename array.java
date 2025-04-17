@@ -4,11 +4,13 @@ public class array {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter size of array");
         int n=sc.nextInt();
+        int sum=0;
         int []arr=new int[n];
+        
         System.out.println("enter valuse of array");
-        for(int i=0;i<n;i++)
+        for(int j=0;j<n;j++)
         {
-            arr[i]=sc.nextInt();
+            arr[j]=sc.nextInt();
         
         }
        /* int a=sc.nextInt();
@@ -16,8 +18,19 @@ public class array {
         int a=50;
         System.out.println(a);
          */
-        for(int k=0;k<arr.length;k++)
-        System.out.println(arr[k]);
+        for(int i=0;i<arr.length;i++){
+        System.out.println(arr[i]);
+        }
+        for(int i=0;i<arr.length;i++)
+        {
+     sum =sum+arr[i];
+        }
+        System.out.println(sum);}
+        
+       
+       
+
+
     }
-}
+
 
