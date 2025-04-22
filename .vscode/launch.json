@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "vocon",
+      "request": "launch",
+      "mainClass": "vocon",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "string",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "prime",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "sumarray",
       "request": "launch",
       "mainClass": "sumarray",
