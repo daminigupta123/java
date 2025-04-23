@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "repeatstring",
+      "request": "launch",
+      "mainClass": "repeatstring",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "vocon",
       "request": "launch",
       "mainClass": "vocon",
