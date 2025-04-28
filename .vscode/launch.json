@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "primeno",
+      "request": "launch",
+      "mainClass": "primeno",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "prime_no",
+      "request": "launch",
+      "mainClass": "prime_no",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "lns",
       "request": "launch",
       "mainClass": "lns",
