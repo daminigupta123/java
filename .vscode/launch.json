@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "lns",
+      "request": "launch",
+      "mainClass": "lns",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "Basic",
+      "request": "launch",
+      "mainClass": "Basic",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "repeatstring",
       "request": "launch",
       "mainClass": "repeatstring",
