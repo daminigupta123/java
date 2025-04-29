@@ -1,6 +1,6 @@
 public class primeno {
       public static void main(String[] args) {
-          int num = 11; // number to check
+          int num = 12; // number to check
           boolean isPrime = true;
   
           if (num <= 1) {

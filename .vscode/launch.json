@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "string1",
+      "request": "launch",
+      "mainClass": "string1",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "primeno",
       "request": "launch",
       "mainClass": "primeno",
