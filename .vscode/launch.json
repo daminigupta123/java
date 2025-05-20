@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "negativearray",
+      "request": "launch",
+      "mainClass": "negativearray",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "ractan",
       "request": "launch",
       "mainClass": "ractan",
