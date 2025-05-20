@@ -3,7 +3,14 @@ class area{
     int are=l*w;
     void cal(){
        System.out.println(are);
+
+      
+      
     }
+    area()
+    {
+     System.out.println("aarea of ractnagle");
+
 }
 
 
@@ -13,6 +20,4 @@ public class ractan {
         area ar=new area();
         ar.cal();
     }
-
-    
 }
