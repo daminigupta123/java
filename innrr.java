@@ -1,8 +1,12 @@
- interface client {
+ interface client1 {
     void print();
     void show();
 }
-class Dev implements client {
+ interface client2{
+void print(); 
+  
+}
+class Dev implements client1,client2  {
     public void print(){
         System.out.println("hii");
     }

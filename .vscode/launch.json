@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "walk",
+      "request": "launch",
+      "mainClass": "walk",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "innrr",
       "request": "launch",
       "mainClass": "innrr",
