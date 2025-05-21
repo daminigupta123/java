@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "strreverse",
+      "request": "launch",
+      "mainClass": "strreverse",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "reverse",
       "request": "launch",
       "mainClass": "reverse",
