@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "innrr",
+      "request": "launch",
+      "mainClass": "innrr",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "Dev",
+      "request": "launch",
+      "mainClass": "Dev",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "strreverse",
       "request": "launch",
       "mainClass": "strreverse",

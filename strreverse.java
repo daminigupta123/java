@@ -13,8 +13,8 @@ public class strreverse {
         newstr.append(str.charAt(i-1)).append(count);
         count=1;
     }
-    for(int j=1;j<str.length();j++){
-    System.out.println(newstr);
+    for(int j=1;j<newstr.length();j++){
+    System.out.println(newstr.charAt(j));
     }
   }  
 
