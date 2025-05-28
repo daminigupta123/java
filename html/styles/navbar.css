@@ -28,6 +28,7 @@ border-radius: 25px;
 
 .navbar-logo>img{
     border-radius: 100%;
+    color:brown;
 }
 
 
@@ -48,4 +49,7 @@ border-radius: 25px;
     border: 2px solid black;
     text-decoration: none;
     color: black;
+}
+body{
+    background-color: cadetblue;
 }
