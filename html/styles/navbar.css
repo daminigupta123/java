@@ -51,5 +51,8 @@ border-radius: 25px;
     color: black;
 }
 body{
-    background-color: cadetblue;
+    background-color: aquamarine;
 }
+#myimage{
+    border-radius: 50%;
+} 

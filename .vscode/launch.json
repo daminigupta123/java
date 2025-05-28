@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "viewport",
+      "request": "launch",
+      "mainClass": "viewport",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "demo",
       "request": "launch",
       "mainClass": "demo",
