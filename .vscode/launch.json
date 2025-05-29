@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "revarray",
+      "request": "launch",
+      "mainClass": "revarray",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "maxarray",
       "request": "launch",
       "mainClass": "maxarray",
