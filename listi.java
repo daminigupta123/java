@@ -1,6 +1,7 @@
 
 import java.util.ArrayList;
-import java.util.Iterator;
+
+import java.util.ListIterator;
 public class listi {
     public static void main(String[] args) {
         ArrayList<String> list=new ArrayList<>();
@@ -9,18 +10,23 @@ public class listi {
         list.add("vanshika");
         list.add("astha");
         System.out.println(list);;
-        Iterator<String>it=list.iterator();
+        ListIterator<String>it=list.listIterator();
         while(it.hasNext()){
             String data=it.next();
-            if(data.startsWith("damini")){
+            if(data.startsWith("A")){
                 it.remove();
             } else {
                 System.out.println(data);
-            }
+            }}
+            while(it.hasPrevious()){
+                String predata=it.previous();
+                System.out.println(predata);
+            
             }
         }
             
         
 
     }
+
 
