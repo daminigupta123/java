@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "listi",
+      "request": "launch",
+      "mainClass": "listi",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "revarray",
       "request": "launch",
       "mainClass": "revarray",
