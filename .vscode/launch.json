@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kth",
+      "request": "launch",
+      "mainClass": "kth",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "listi",
       "request": "launch",
       "mainClass": "listi",

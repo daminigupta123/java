@@ -5,16 +5,16 @@ import java.util.ListIterator;
 public class listi {
     public static void main(String[] args) {
         ArrayList<String> list=new ArrayList<>();
-        list.add("damini");
-        list.add("harshita");
-        list.add("vanshika");
-        list.add("astha");
-        list.add("ram");
+        list.add("Damini");
+        list.add("Harshita");
+        list.add("Vanshika");
+        list.add("Astha");
+        list.add("Ram");
         System.out.println(list);;
         ListIterator<String>it=list.listIterator();
         while(it.hasNext()){
             String data=it.next();
-            if(data.equals("damini")){
+            if(data.equals("Damini")){
            // if(data.length()<3){
             System.out.println(data);
             }
@@ -26,7 +26,9 @@ public class listi {
               //  System.out.println(predata);
                 
                 
-                    }}}
+                    }
+                }
+            }
                 
             
         
