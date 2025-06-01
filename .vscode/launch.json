@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "movearray",
+      "request": "launch",
+      "mainClass": "movearray",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "kth",
       "request": "launch",
       "mainClass": "kth",
