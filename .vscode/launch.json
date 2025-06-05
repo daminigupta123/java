@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "multithread",
+      "request": "launch",
+      "mainClass": "multithread",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "cycolic",
       "request": "launch",
       "mainClass": "cycolic",
