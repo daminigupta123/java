@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "subarray",
+      "request": "launch",
+      "mainClass": "subarray",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "setpriorityfunction1",
       "request": "launch",
       "mainClass": "setpriorityfunction1",
