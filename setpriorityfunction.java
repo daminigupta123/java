@@ -11,8 +11,7 @@ public class setpriorityfunction {
         MyThread t2= new MyThread();
         t1.setName("damini");
         t2.setName("anvi");
-        
-        
+              
         t1.start();
         t2.start();
         t1.setPriority(Thread.MAX_PRIORITY);
