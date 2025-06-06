@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "change",
+      "request": "launch",
+      "mainClass": "change",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "leaders",
       "request": "launch",
       "mainClass": "leaders",
