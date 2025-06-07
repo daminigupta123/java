@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sumarr",
+      "request": "launch",
+      "mainClass": "sumarr",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "countaccur",
       "request": "launch",
       "mainClass": "countaccur",
