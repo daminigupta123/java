@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "missingnumber",
+      "request": "launch",
+      "mainClass": "missingnumber",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "twopintr",
+      "request": "launch",
+      "mainClass": "twopintr",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "sumarr",
       "request": "launch",
       "mainClass": "sumarr",
