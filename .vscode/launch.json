@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "startwitha",
+      "request": "launch",
+      "mainClass": "startwitha",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "lengofwords",
       "request": "launch",
       "mainClass": "lengofwords",
