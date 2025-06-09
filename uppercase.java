@@ -10,7 +10,7 @@ public class uppercase {
         return result;
     }
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("vanshika", "harshita", "Anu", "Damini", "Bhola");
+        List<String> names = Arrays.asList("vanshika", "harshita", "Anu", "Damini","Bhola");
         List<String> upperNames = getUppercaseNames(names);
         System.out.println("Uppercase names with more than 3 characters: " + upperNames);
     }
