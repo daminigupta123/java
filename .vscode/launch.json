@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "evenlist",
+      "request": "launch",
+      "mainClass": "evenlist",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "missingnumber",
       "request": "launch",
       "mainClass": "missingnumber",
