@@ -26,5 +26,3 @@ public class startwitha {
         System.out.println("Number of strings starting with 'A' or 'a': " + countA);
     }
 }
-    
-

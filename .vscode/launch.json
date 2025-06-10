@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "duplicate",
+      "request": "launch",
+      "mainClass": "duplicate",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "startwitha",
       "request": "launch",
       "mainClass": "startwitha",
@@ -358,8 +365,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hp/OneDrive/Desktop/jawa03",
-      "program": "c:/Users/Hp/OneDrive/Desktop/jawa03/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
