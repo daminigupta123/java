@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "intersection",
+      "request": "launch",
+      "mainClass": "intersection",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "duplicate",
       "request": "launch",
       "mainClass": "duplicate",

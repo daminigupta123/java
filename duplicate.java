@@ -11,7 +11,6 @@ public class duplicate {
         }
         return -1; // No duplicate found
     }
-
     public static void main(String[] args) {
         int[] arr = {1, 3, 4, 2, 5, 3};
         int duplicate = findDuplicate(arr);
