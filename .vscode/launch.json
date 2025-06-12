@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "spiral",
+      "request": "launch",
+      "mainClass": "spiral",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "freq",
       "request": "launch",
       "mainClass": "freq",
