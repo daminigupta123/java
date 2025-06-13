@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "product",
+      "request": "launch",
+      "mainClass": "product",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "sorted",
+      "request": "launch",
+      "mainClass": "sorted",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "spiral",
       "request": "launch",
       "mainClass": "spiral",
