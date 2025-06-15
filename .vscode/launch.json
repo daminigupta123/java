@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "apnacollege",
+      "request": "launch",
+      "mainClass": "apnacollege",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "product",
       "request": "launch",
       "mainClass": "product",
