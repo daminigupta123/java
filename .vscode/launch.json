@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "permulation",
+      "request": "launch",
+      "mainClass": "permulation",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "remove",
       "request": "launch",
       "mainClass": "remove",

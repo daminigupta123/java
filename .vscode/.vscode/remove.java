@@ -11,7 +11,6 @@ public class remove{
         }
         return result.toString();
     }
-
     public static void main(String[] args) {
         String input = "damini";
         String output = removeDuplicates(input);
