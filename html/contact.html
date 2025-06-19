@@ -6,19 +6,40 @@
     <title>Document</title>
 </head>
 <body>
-    <p><h3>Contact me</h3></p>
-    <form>
+    <fieldset>
+      <legend >form</legend>
+    <span><h1>contact me : </h1></span> 
+     <form> 
+        <label for="name">Name:</label>
+        <input id="name" type="text"placeholder="enter name">
+        <br>
+        </label>
+        <span>mobile number : </span>
+        <input type="number" placeholder="enter mobile number">
+        <br>
+        <span>enter email : </span>
         <input type="text"placeholder="Enter username,phone number or email"width=150>
     <br>
     <br>
+    <span>date of birth : </span>
+    <input type="date"placeholder="enter date of birth">
+    <br>
+    <span>password : </span>
         <input type="password"placeholder="Enter password">
+        <br>
+          <br>
         <label for="id1">
             <input type="radio"value="class x" name ="id1">class x
             <input type="radio"value="class XII" name ="id1" >class XII
         </label>
             <br>
-            
-            <p><h3><button>sem</button></h3></p>
+             <label for="id2">
+            <span>enter gender : </span>
+     <input type="radio"value="male" name ="id2">male
+     <input type="radio"value="female" name ="id2" >female
+ </label>
+           <br> 
+    <span>sem :</span>
             <select sem="sem"id2="sem">
                 <option value="1st">1st</option>
                 <option value="2nd">2nd</option>
@@ -30,18 +51,17 @@
                 <option value="8th">8th</option>
             </select>
         <br>
-    
-        <p><h3>city</h3></p>
-            <select city name="city"id="city">
-                <option value ="delhi">delhi</option>
-                <option value="mumbai">mumbai</option>
-                <option value ="pune">pune</option>
-                <option value="kolkata">kolkata</option>
-            </select>
-        
-        <br>
+          <p><h3>city</h3></p>
+          <select city name="city"id="city">
+              <option value ="delhi">delhi</option>
+              <option value="mumbai">mumbai</option>
+              <option value ="pune">pune</option>
+              <option value="kolkata">kolkata</option>
+          </select>
+       <br>
         <br>
 <input type="submit"value="submit">
     </form>
+ </fieldset>
 </body>
 </html>

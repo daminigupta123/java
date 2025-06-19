@@ -1,0 +1,53 @@
+body{
+    background-color: grey;
+}
+h1{
+    color:green;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    background-color: black;
+    width:300px;
+    height: 300px;
+    
+    border: solid 2px white;
+    border-radius: 10px;
+display: flex;
+ color: green;
+ justify-content: center;
+    display: space-between;
+    align-items: center;
+}
+.box2{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: solid 2px white;
+    border-radius: 10px;
+    display: flex;
+    color: green;
+    justify-content: center;
+    align-items: center;
+
+}
+.box3{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: solid 2px white;
+    border-radius: 10px;
+    display: flex;
+    color: green;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

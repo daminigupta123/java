@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class apnacollege {
-    
-    public static void main(String[] args) {
+        public static void main(String[] args) {
           Scanner sc=new Scanner(System.in);
         int size=sc.nextInt();
              String marks[]=new String [size];
@@ -12,6 +11,5 @@ public class apnacollege {
         {
         System.out.println(marks[i]);
         }
-    
-    }
+        }
 }
