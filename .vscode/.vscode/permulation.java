@@ -10,7 +10,6 @@ public class permulation {
             printPermutations(ros, ans + ch);
         }
     }
-
     public static void main(String[] args) {
         String input = "abc";
         printPermutations(input, "");

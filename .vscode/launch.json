@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GuessNo",
+      "request": "launch",
+      "mainClass": "GuessNo",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
+      "name": "anagrams",
+      "request": "launch",
+      "mainClass": "anagrams",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "permulation",
       "request": "launch",
       "mainClass": "permulation",
