@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BankMgmt",
+      "request": "launch",
+      "mainClass": "BankMgmt",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "GuessNo",
       "request": "launch",
       "mainClass": "GuessNo",
