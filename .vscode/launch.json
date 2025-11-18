@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "swsitch2",
+      "request": "launch",
+      "mainClass": "swsitch2",
+      "projectName": "jawa03_32418b5a"
+    },
+    {
+      "type": "java",
       "name": "BankMgmt",
       "request": "launch",
       "mainClass": "BankMgmt",
